@@ -1,0 +1,23 @@
+.text-left{
+    text-align: left;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-center{
+    text-align: justify;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-underline{
+    text-decoration: underline;
+}

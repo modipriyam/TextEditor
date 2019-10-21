@@ -1,0 +1,17 @@
+i {
+    display: inline-block;
+    padding:auto;
+}
+
+#contentEditable {
+    height: 500px;
+    width : 50%;
+    border: 1px solid #000;
+    margin: auto;
+
+}
+
+.Container{
+    margin: 100px 100px 100px 100px;
+    text-align: center;
+}
